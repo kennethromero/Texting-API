@@ -1,0 +1,5 @@
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API.csprojAssemblyReference.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\MainWindow.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\App.g.cs
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API_MarkupCompile.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API_MarkupCompile.lref
