@@ -7,6 +7,12 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label x:Name="lblSendyourSMS_" Content="Send your SMS!" HorizontalAlignment="Left" Height="48" Margin="29,20,0,0" VerticalAlignment="Top" Width="372" FontSize="30" FontWeight="Bold"/>
+        <Label x:Name="lblPhoneNumber" Content="Phone Number" HorizontalAlignment="Left" Height="30" Margin="29,102,0,0" VerticalAlignment="Top" Width="109" FontWeight="Bold"/>
+        <Label x:Name="lblMessage" Content="Message" HorizontalAlignment="Left" Height="32" Margin="29,162,0,0" VerticalAlignment="Top" Width="109" FontWeight="Bold"/>
+        <TextBox x:Name="txtPhoneNumber" HorizontalAlignment="Left" Height="42" Margin="173,102,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404"/>
+        <TextBox x:Name="txtMessage" HorizontalAlignment="Left" Height="150" Margin="173,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="404"/>
+        <Button x:Name="btnSend" Content="Send" HorizontalAlignment="Left" Height="44" Margin="577,357,0,0" VerticalAlignment="Top" Width="196"/>
+
     </Grid>
 </Window>
