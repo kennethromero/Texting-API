@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using RestSharp;
 
 namespace Texting_API
 {
@@ -34,6 +35,23 @@ namespace Texting_API
             int j = txtMessage.Text.Length;
             string charcount = j.ToString() + " " + "/" + " " + "100";
             CharCount.Text = charcount;
+
+        }
+
+        private void btnSend_Click(object sender, RoutedEventArgs e)
+        {
+            string PhoneNumber = txtPhoneNumber.Text;
+            string Message = txtMessage.Text;
+
+            var client = new RestSharp.RestClient ("https://www.itexmo.com/php_api/api.php");
+
+            var request = new RestSharp.RestRequest(RestSharp.Method.POST);
+                request.AddParameter("1", PhoneNumber);
+                request.AddParameter("2", Message);
+                request.AddParameter("3", "TR-JOHNK792444_5XZYM");
+                request.AddParameter("passwd", "g8gck[aluq");
+
+            client.Execute(request);
 
         }
     }

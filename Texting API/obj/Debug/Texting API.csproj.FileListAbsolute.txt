@@ -3,3 +3,16 @@ C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\
 C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\App.g.cs
 C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API_MarkupCompile.cache
 C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API_MarkupCompile.lref
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\bin\Debug\Texting API.exe.config
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\bin\Debug\Texting API.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\bin\Debug\Texting API.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\MainWindow.baml
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API.g.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting_API.Properties.Resources.resources
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API.csproj.GenerateResource.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API.exe
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API.pdb
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\bin\Debug\RestSharp.dll
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\bin\Debug\RestSharp.xml
+C:\Users\Kenneth\Desktop\ict project\projects\Texting API\Texting API\obj\Debug\Texting API.csproj.CopyComplete
